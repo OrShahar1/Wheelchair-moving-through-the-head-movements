@@ -9,10 +9,4 @@
 
 •For verification and separation of system dependencies - GUI
 
-
-
-
-
-see project
-
-https://www.youtube.com/watch?v=22qpu3OpEc4
+see project in : https://www.youtube.com/watch?v=22qpu3OpEc4
